@@ -8,6 +8,15 @@ BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için 
 - 📱 Responsive tasarım (Mobil/Tablet uyumlu)
 - 🎨 Kullanıcı dostu arayüz
 
+## 🚀 Başlarken
+-cd backend
+npm install
+node server.js
+
+-cd frontend
+npm install
+npm run dev
+
 ## 🛠 Teknoloji Yığını
 | Frontend       | Backend    | Veritabanı   |
 |----------------|------------|-------------|
