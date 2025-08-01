@@ -3,7 +3,7 @@ BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için 
 
 # 🏀 BasketStat - Oyuncu Karşılaştırma Uygulaması
 
-![Proje Görseli](screenshots/main-screen.png) *(assets/screenshots klasörüne ekran görüntüsü ekleyin)*
+![Proje Görseli](screenshots/main-screen.png) 
 
 ## 📌 Öne Çıkan Özellikler
 - ✅ Oyuncu profili oluşturma (İsim, forma no, pozisyon)
