@@ -3,8 +3,6 @@ BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için 
 
 # 🏀 BasketStat - Oyuncu Karşılaştırma Uygulaması
 
-![Proje Görseli](screenshots/main-screen.png) 
-
 ## 📌 Öne Çıkan Özellikler
 - ✅ Oyuncu profili oluşturma (İsim, forma no, pozisyon)
 - 📊 5 temel istatistik karşılaştırma (Sayı, asist, ribaund, top çalma, blok)
@@ -16,27 +14,6 @@ BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için 
 |----------------|------------|-------------|
 | Vue.js 3       | Node.js    | MongoDB     |
 |                | Express    |             |
-
-## 📸 Ekran Görüntüleri
-## 🔐 Giriş Yap
-![Giriş Ekranı](assets/screenshots/login.png)
-*Kullanıcı girişi için kullanıcı adı ve şifre alanları*
-
-## 📝 Kayıt Ol
-![Kayıt Ekranı](assets/screenshots/signup.png)
-*Yeni kullanıcı oluşturma formu*
-
-## 👥 Oyuncularım
-![Oyuncu Listesi](assets/screenshots/myplayers.png)
-*Tüm oyuncuların tablo görünümü ve filtreleme*
-
-## ➕ Oyuncu Ekle
-![Oyuncu Ekleme Formu](assets/screenshots/add-player.png)
-*Yeni oyuncu bilgilerini girme ekranı*
-
-## 🆚 Karşılaştırma
-![Karşılaştırma Ekranı](assets/screenshots/compare.png)
-*İki oyuncunun istatistiklerinin yan yana analizi*
 
 ## 📜 Lisans
 MIT © [Barış Haznedaroğlu](https://github.com/barishh21)
