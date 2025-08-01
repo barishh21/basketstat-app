@@ -167,7 +167,7 @@ const formatDifference = (player1Value, player2Value, statKey) => {
   if (difference > 0) {
     return `${selectedPlayer1.value.name}, ${selectedPlayer2.value.name}'den ${absoluteDiff} ${statLabels[statKey]} daha fazla`;
   } else {
-    return `${selectedPlayer2.value.name}, ${selectedPlayer1.value.name}'den ${absoluteDiff} ${statLabels[statKey]} daha az`;
+    return `${selectedPlayer2.value.name}, ${selectedPlayer1.value.name}'den ${absoluteDiff} ${statLabels[statKey]} daha fazla`;
   }
 };
 
