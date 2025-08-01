@@ -1,7 +1,6 @@
-# basketstat-app
-BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için basit ve etkili bir araçtır.
 
 # 🏀 BasketStat - Oyuncu Karşılaştırma Uygulaması
+BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için basit ve etkili bir araçtır.
 
 ## 📌 Öne Çıkan Özellikler
 - ✅ Oyuncu profili oluşturma (İsim, forma no, pozisyon)
