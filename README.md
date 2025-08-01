@@ -18,10 +18,25 @@ BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için 
 |                | Express    |             |
 
 ## 📸 Ekran Görüntüleri
-| Karşılaştırma Sayfası | Oyuncu Ekleme |
-|-----------------------|---------------|
-| ![Karşılaştırma](screenshots/compare.png) | ![Ekleme](screenshots/add-player.png) |
+## 🔐 Giriş Yap
+![Giriş Ekranı](screenshots/login.png)
+*Kullanıcı girişi için email ve şifre alanları*
 
+## 📝 Kayıt Ol
+![Kayıt Ekranı](screenshots/signup.png)
+*Yeni kullanıcı oluşturma formu*
+
+## 👥 Oyuncularım
+![Oyuncu Listesi](screenshots/myplayers.png)
+*Tüm oyuncuların tablo görünümü ve filtreleme*
+
+## ➕ Oyuncu Ekle
+![Oyuncu Ekleme Formu](screenshots/add-player.png)
+*Yeni oyuncu bilgilerini girme ekranı*
+
+## 🆚 Karşılaştırma
+![Karşılaştırma Ekranı](screenshots/compare.png)
+*İki oyuncunun istatistiklerinin yan yana analizi*
 
 ## 📜 Lisans
 MIT © [Barış Haznedaroğlu](https://github.com/barishh21)
