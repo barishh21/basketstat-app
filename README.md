@@ -19,11 +19,11 @@ BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için 
 
 ## 📸 Ekran Görüntüleri
 ## 🔐 Giriş Yap
-![Giriş Ekranı](screenshots/login.png)
-*Kullanıcı girişi için email ve şifre alanları*
+![Giriş Ekranı](assets/screenshots/login.png)
+*Kullanıcı girişi için kullanıcı adı ve şifre alanları*
 
 ## 📝 Kayıt Ol
-![Kayıt Ekranı](screenshots/signup.png)
+![Kayıt Ekranı](assets/screenshots/signup.png)
 *Yeni kullanıcı oluşturma formu*
 
 ## 👥 Oyuncularım
