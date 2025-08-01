@@ -27,15 +27,15 @@ BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için 
 *Yeni kullanıcı oluşturma formu*
 
 ## 👥 Oyuncularım
-![Oyuncu Listesi](screenshots/myplayers.png)
+![Oyuncu Listesi](assets/screenshots/myplayers.png)
 *Tüm oyuncuların tablo görünümü ve filtreleme*
 
 ## ➕ Oyuncu Ekle
-![Oyuncu Ekleme Formu](screenshots/add-player.png)
+![Oyuncu Ekleme Formu](assets/screenshots/add-player.png)
 *Yeni oyuncu bilgilerini girme ekranı*
 
 ## 🆚 Karşılaştırma
-![Karşılaştırma Ekranı](screenshots/compare.png)
+![Karşılaştırma Ekranı](assets/screenshots/compare.png)
 *İki oyuncunun istatistiklerinin yan yana analizi*
 
 ## 📜 Lisans
