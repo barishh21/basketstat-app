@@ -10,12 +10,12 @@ BasketStat, basketbol oyuncularının istatistiklerini karşılaştırmak için 
 
 ## 🚀 Başlarken
 -cd backend
-npm install
-node server.js
+-npm install
+-node server.js
 
 -cd frontend
-npm install
-npm run dev
+-npm install
+-npm run dev
 
 ## 🛠 Teknoloji Yığını
 | Frontend       | Backend    | Veritabanı   |
